@@ -1,31 +1,10 @@
-# Dependencies
 node_modules/
+.venv/
 venv/
 __pycache__/
-
-# Environment
+*.pyc
 .env
 .env.local
-
-# Build
 dist/
 build/
-.next/
-
-# Logs
-*.log
-
-# OS
 .DS_Store
-Thumbs.db
-
-# Database
-*.sqlite
-*.db
-
-# Python
-*.pyc
-
-# IDE
-.vscode/
-.idea
